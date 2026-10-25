@@ -4,7 +4,6 @@ A hybrid anime recommendation system built with Python, Pandas, NumPy, and Sciki
 
 **🔗 Live demo:** https://ml-anime-recommender.streamlit.app/
 
-![App screenshot](screenshot.png)
 
 ## Features
 
