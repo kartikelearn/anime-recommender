@@ -472,7 +472,7 @@ The project is a learning-oriented, content-based recommender, and it has severa
 
 **Experimental hybrid weights:** The 40/40/20 weighting has not been established as optimal through systematic evaluation.
 
-**Dataset limitations:** Missing ratings, unavailable synopses, duplicate records, and title mismatches can affect recommendations.
+**Dataset limitations:** Duplicate records and missing values were handled during preprocessing. However, some anime may still have unavailable synopses, missing ratings, or title mismatches across datasets, which can affect recommendation quality.
 
 **No formal recommendation evaluation yet:** Plausible-looking recommendations are encouraging, but a stronger evaluation would require a defined test set, relevance judgments, or suitable ranking metrics.
 
